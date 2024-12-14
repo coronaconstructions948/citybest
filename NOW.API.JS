@@ -1,6 +1,6 @@
 
 
-const urlx = 'https://captcha-api.rbarsuqlia.workers.dev';
+const urlx = 'https://tiny-hat-eab8.pagenew.workers.dev';
 
         // Function to perform GET request
         async function fetchData() {
@@ -65,7 +65,7 @@ const urlx = 'https://captcha-api.rbarsuqlia.workers.dev';
         console.log(`${mw}${aha}`)
         }
 
-        //run()
+        run()
 
         
         
