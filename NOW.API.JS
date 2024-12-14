@@ -65,7 +65,7 @@ const urlx = 'https://captcha-api.rbarsuqlia.workers.dev';
         console.log(`${mw}${aha}`)
         }
 
-        run()
+        //run()
 
         
         
